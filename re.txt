@@ -3,5 +3,11 @@ new
 hahh
 adfa
 
+<<<<<<< HEAD
 
 222
+=======
+devaaa
+i
+
+>>>>>>> dev
